@@ -1,0 +1,31 @@
+[2026-02-05 18:02:45] requestAccessToken() - No token found in response. Response structure: Array
+(
+    [ErrorNumber] => 403.01
+    [Message] => You are not authorized to access the resource you requested: Expired or incorrect access token.
+)
+
+[2026-02-05 18:06:11] requestAccessToken() - HTTP Error Code: 404 | Response: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>404 - File or directory not found.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+[2026-02-05 18:07:53] requestAccessToken() - No token found in response. Response structure: Array
+(
+    [ErrorNumber] => 403
+    [Message] => You are not authorized to access the resource you requested
+)
+
+[2026-02-05 18:11:53] requestAccessToken() - No token found in response. Response structure: Array
+(
+    [Token] => 129702464400
+    [ConsumerKey] => 04A2246C17215BAD7297
+    [ClientId] => 466056
+    [EffectiveDate] => 2/5/2026 12:11:53 PM CST
+    [ExpirationDate] => 2/5/2026 1:11:53 PM CST
+)
+

@@ -1,0 +1,17 @@
+Integrate WHCC order api
+https://developer.whcc.com/pages/order-submit-api/
+
+Order
+Request access token
+https://developer.whcc.com/pages/order-submit-api/request-access-token/
+curl https://sandbox.apps.whcc.com/api/catalog/ \
+	-H "Authorization: Bearer 04A2246C17215BAD7297" \
+	-X GET
+Use Token key from JSON
+
+Grab full product catalog
+https://developer.whcc.com/pages/order-submit-api/request-catalog/
+curl https://apps.whcc.com/api/catalog/ \
+	-H "Authorization: Bearer {token ID}" \
+	-X GET
+Save to file in print_r($var, true);
